@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Antonio-Lins/Antonio-Lins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👱‍♀️ My name is Antonio Lins
+- 👩‍🎨 Development student
+- 👩‍💻 I’m currently learning Full Stack Development
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+ <hr/>
+ 
+<h2 align="center">Technologies</h2>
+<div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,react,mysql,postgres,postman,docker,git,github,vscode,eclipse,idea,notion,figma" />
+  </a>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <hr/>
+ 
+<div>
+  <p align="center">
+<a href="https://github.com/Alessandra1999">
+<a href="https://github.com/Alessandra1999">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandra1999&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alessandra1999&theme=dracula&hide_border=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra1999&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+</p>
+</div>
+
+<hr/>
