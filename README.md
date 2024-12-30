@@ -14,11 +14,13 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
 💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
-### Últimos videos:
+### Últimos projetos:
 - [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
 - [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
 - [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
