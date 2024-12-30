@@ -17,7 +17,7 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Desenvolvedor em busca de novos desafios, movido pela paixão por tecnologia e pela arte de programar.
 
 ### Últimos projetos:
 - [Gerenciamento-de-metas-gamificadas-no-back-end](https://github.com/Antonio-Lins/gerenciamento-de-metas-gamificadas-no-back-end)<br/>
