@@ -21,7 +21,7 @@
 💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
 ### Últimos projetos:
-- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
-- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
-- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+- [Gerenciamento-de-metas-gamificadas-no-back-end](https://github.com/Antonio-Lins/gerenciamento-de-metas-gamificadas-no-back-end)<br/>
+- [App-de-gerenciamento-de-metas](https://github.com/Antonio-Lins/app-de-gerenciamento-de-metas)<br/>
+- [Gerenciamento-de-biblioteca-em-Java](https://github.com/Antonio-Lins/gerenciamento-de-biblioteca-em-Java)<br/>
+- [Calculadora-em-java](https://github.com/Antonio-Lins/Calculadora-em-java)<br/>
