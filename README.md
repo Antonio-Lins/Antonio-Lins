@@ -1,73 +1,47 @@
-# Antonio Lins 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Antonio-Lins&color=blue)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Fullstack-informational)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)
-
----
-
-## 🌌 Desenvolvedor Backend & Fullstack
-
-Sou desenvolvedor apaixonado por tecnologia, focado em construção de APIs, sistemas escaláveis e aplicações web modernas.
-
-🎯 Atualmente buscando minha primeira oportunidade profissional como Desenvolvedor Júnior (Presencial ou Híbrido).
-
----
-
-## 🚀 Stack Principal
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-Lins&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Lins&layout=compact&theme=tokyonight)
-
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
----
+<br/>
 
-## 🌠 Projetos em Destaque
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
 
-🔹 [Gerenciamento de Metas - Backend](https://github.com/Antonio-Lins/gerenciamento-de-metas-gamificadas-no-back-end)  
-API para gerenciamento de metas com estrutura organizada e foco em backend.
+<br/>
 
-🔹 [App de Gerenciamento de Metas](https://github.com/Antonio-Lins/app-de-gerenciamento-de-metas)  
-Aplicação web com integração frontend + backend.
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
-🔹 [Sistema de Biblioteca em Java](https://github.com/Antonio-Lins/gerenciamento-de-biblioteca-em-Java)  
-Projeto orientado a objetos com foco em estrutura e lógica.
+<br/>
 
-🔹 [Calculadora em Java](https://github.com/Antonio-Lins/Calculadora-em-java)  
-Aplicação simples focada em lógica e fundamentos.
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
 
----
+<br/>
 
-## 🌎 Contato
+<details>
+<summary><strong>More about me</strong></summary>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonio_linsxx/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lins-766115214/)
+<br/>
 
----
+Sou desenvolvedor apaixonado por tecnologia, com foco em **Backend** e construção de **APIs e sistemas escaláveis**.
 
-💡 “Construindo sistemas hoje que resolvem problemas reais amanhã.”
+🎯 Buscando minha primeira oportunidade como **Desenvolvedor Júnior** (Presencial ou Híbrido).
+
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.instagram.com/antonio_linsxx/">
+    <img src="https://img.shields.io/badge/-Instagram-080c14?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-lins-766115214/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
+  </a>
+</div>
+
+<!-- Profile SVGs auto-generated -->
