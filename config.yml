@@ -1,0 +1,45 @@
+profile:
+  name: Antonio Lins
+  title: Full Stack Developer
+  tagline: Backend-focused developer passionate about building scalable systems.
+
+theme:
+  primary_color: "#00d4ff"
+  secondary_color: "#8a2be2"
+  accent_color: "#facc15"
+
+focus:
+  - Backend
+  - Frontend
+  - DevOps
+
+tech_stack:
+  - JavaScript
+  - TypeScript
+  - React
+  - Node.js
+  - Python
+  - Java
+  - C
+  - C++
+
+featured_projects:
+  - name: Gerenciamento de Metas (Backend)
+    repo: Antonio-Lins/gerenciamento-de-metas-gamificadas-no-back-end
+    category: Backend
+
+  - name: App de Gerenciamento de Metas
+    repo: Antonio-Lins/app-de-gerenciamento-de-metas
+    category: Frontend
+
+  - name: Gerenciamento de Biblioteca em Java
+    repo: Antonio-Lins/gerenciamento-de-biblioteca-em-Java
+    category: Backend
+
+  - name: Calculadora em Java
+    repo: Antonio-Lins/Calculadora-em-java
+    category: Backend
+
+auto_update:
+  enabled: true
+  schedule: "0 */12 * * *"
